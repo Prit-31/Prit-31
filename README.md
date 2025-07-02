@@ -18,7 +18,6 @@ I enjoy exploring vulnerabilities, securing infrastructures, and staying updated
 ![Incident Response](https://img.shields.io/badge/Incident%20Response-FF6F00?style=for-the-badge&logo=IBM&logoColor=white)
 ![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability%20Assessment-4CAF50?style=for-the-badge&logo=owasp&logoColor=white)
 
----
 
 ---
 
