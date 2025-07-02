@@ -20,12 +20,6 @@ I enjoy exploring vulnerabilities, securing infrastructures, and staying updated
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prit-31&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Prit-31&theme=tokyonight" alt="streak" />
-</p>
-
 ---
 
 ### 📫 Connect with Me
