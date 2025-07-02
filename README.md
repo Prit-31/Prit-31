@@ -1,30 +1,37 @@
-# Hi there 👋, I'm Prit Gujarati  
+I'm Prit Gujarati  
 
-### 🚀 About Me
-I'm a **Cybersecurity Enthusiast** 🔒 | **MCA Student** 🎓 | Aspiring **CISO** 🕵️‍♂️  
-I love solving real-world security challenges and building secure systems.
+### 🚀 About Me  
+I'm a **Cybersecurity Enthusiast** 🔒 | **MCA Student** 🎓  
+I’m passionate about protecting systems, networks, and data through practical, real-world solutions.  
+I enjoy exploring vulnerabilities, securing infrastructures, and staying updated with the latest in cybersecurity.
 
 ---
+### 🛠️ My Cybersecurity Skillset
 
-### 🛠️ My Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-007ACC?style=for-the-badge&logo=cisco&logoColor=white)
-![Web Security](https://img.shields.io/badge/Web%20Security-333333?style=for-the-badge&logo=OWASP&logoColor=white)
+![SOC Analyst (L1)](https://img.shields.io/badge/SOC%20Analyst%20(L1)-orange?style=for-the-badge&logo=security&logoColor=white)
+![Log Analysis](https://img.shields.io/badge/Log%20Analysis-blueviolet?style=for-the-badge&logo=elasticstack&logoColor=white)
+![Threat Hunting](https://img.shields.io/badge/Threat%20Hunting-critical?style=for-the-badge&logo=cybersecurity&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM-005571?style=for-the-badge&logo=splunk&logoColor=white)
+![Incident Response](https://img.shields.io/badge/Incident%20Response-FF6F00?style=for-the-badge&logo=IBM&logoColor=white)
+![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability%20Assessment-4CAF50?style=for-the-badge&logo=owasp&logoColor=white)
 
 ---
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prit-31&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Prit-31&theme=tokyonight" alt="streak" />
 </p>
 
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/YOUR_INSTAGRAM)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prit-gujarati-2a703b275)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gujaratip31@gmail.com)
 
 ---
 
