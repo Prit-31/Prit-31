@@ -24,7 +24,7 @@ I enjoy exploring vulnerabilities, securing infrastructures, and staying updated
 [![Google Cybersecurity Professional Certificate](https://img.shields.io/badge/Google%20Cybersecurity%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.linkedin.com/in/prit-gujarati-2a703b275/details/certifications/)
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security+-ED1C24?style=for-the-badge&logo=comptia&logoColor=white)](https://www.linkedin.com/in/prit-gujarati-2a703b275/details/certifications/)
 [![CompTIA Network+](https://img.shields.io/badge/CompTIA%20Network+-E3008C?style=for-the-badge&logo=comptia&logoColor=white)](https://www.linkedin.com/in/prit-gujarati-2a703b275/details/certifications/)
-
+[![CEH](https://img.shields.io/badge/Threat%20Hunting-critical?style=for-the-badge&logo=cybersecurity&logoColor=white)](https://www.linkedin.com/in/prit-gujarati-2a703b275/details/certifications/)
 
 ---
 
