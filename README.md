@@ -1,10 +1,12 @@
 I'm Prit Gujarati  
 
 ### 🚀 About Me  
-I'm a **Cybersecurity Enthusiast** 🔒 | **MCA Student** 🎓  
-I’m passionate about protecting systems, networks, and data through practical, real-world solutions.  
-I enjoy exploring vulnerabilities, securing infrastructures, and staying updated with the latest in cybersecurity.
-
+I'm a **SOC Analyst Intern Aspirant** 🔒 | **Cybersecurity Student** 🎓  
+Cybersecurity student with strong hands-on experience in Windows security logs, SIEM (Splunk), network
+          traffic analysis, and attack detection. Skilled in detecting brute-force attacks, suspicious authentication
+          behavior, and web application attacks using logs and packet analysis. Built security monitoring and intrusion
+          detection projects using Python and log analysis. Actively seeking a SOC / Cybersecurity Internship to apply
+          blue team and incident response skills.
 ---
 ### 🛠️ My Cybersecurity Skillset
 
