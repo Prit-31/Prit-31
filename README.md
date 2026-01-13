@@ -40,7 +40,7 @@ Cybersecurity student with strong hands-on experience in Windows security logs, 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prit-gujarati-2a703b275)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gujaratip31@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FF77?style=for-the-badge&logo=firefox&logoColor=white)](https://pritgujarati.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-AB0007?style=for-the-badge&logo=firefox&logoColor=white)](https://pritgujarati.netlify.app/)
 
 ---
 
