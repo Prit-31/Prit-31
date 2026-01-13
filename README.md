@@ -1,14 +1,16 @@
 I'm Prit Gujarati  
 
-### 🚀 About Me  
-I'm a **SOC Analyst Intern Aspirant** 🔒 | **Cybersecurity Student** 🎓  
+### About Me  
+I'm a **SOC Analyst Intern Aspirant** | **Cybersecurity Student** 
+<sub>
 Cybersecurity student with strong hands-on experience in Windows security logs, SIEM (Splunk), network
           traffic analysis, and attack detection. Skilled in detecting brute-force attacks, suspicious authentication
           behavior, and web application attacks using logs and packet analysis. Built security monitoring and intrusion
           detection projects using Python and log analysis. Actively seeking a SOC / Cybersecurity Internship to apply
           blue team and incident response skills.
+</sub>
 ---
-### 🛠️ My Cybersecurity Skillset
+### My Cybersecurity Skillset
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -21,7 +23,7 @@ Cybersecurity student with strong hands-on experience in Windows security logs, 
 ![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability%20Assessment-4CAF50?style=for-the-badge&logo=owasp&logoColor=white)
 
 ---
-### 🎓 Certifications
+### Certifications
 
 [![Google Cybersecurity Professional Certificate](https://img.shields.io/badge/Google%20Cybersecurity%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.linkedin.com/in/prit-gujarati-2a703b275/details/certifications/)
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security+-ED1C24?style=for-the-badge&logo=comptia&logoColor=white)](https://www.linkedin.com/in/prit-gujarati-2a703b275/details/certifications/)
@@ -30,11 +32,11 @@ Cybersecurity student with strong hands-on experience in Windows security logs, 
 
 ---
 
-### 📫 Connect with Me
+###  Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prit-gujarati-2a703b275)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gujaratip31@gmail.com)
 
 ---
 
-✨ *Let's secure the world together!*
+ *Let's secure the world together!*
