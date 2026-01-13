@@ -1,7 +1,7 @@
 I'm Prit Gujarati  
 
 ### About Me  
-I'm a **SOC Analyst Intern Aspirant** | **Cybersecurity Student** 
+I'm a **SOC Analyst Intern Aspirant** | **Cybersecurity Student**  <br>
 <sub>
 Cybersecurity student with strong hands-on experience in Windows security logs, SIEM (Splunk), network
           traffic analysis, and attack detection. Skilled in detecting brute-force attacks, suspicious authentication
