@@ -21,6 +21,10 @@ Cybersecurity student with strong hands-on experience in Windows security logs, 
 ![SIEM](https://img.shields.io/badge/SIEM-005571?style=for-the-badge&logo=splunk&logoColor=white)
 ![Incident Response](https://img.shields.io/badge/Incident%20Response-FF6F00?style=for-the-badge&logo=IBM&logoColor=white)
 ![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability%20Assessment-4CAF50?style=for-the-badge&logo=owasp&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
 ---
 ### Certifications
@@ -36,6 +40,7 @@ Cybersecurity student with strong hands-on experience in Windows security logs, 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prit-gujarati-2a703b275)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gujaratip31@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://pritgujarati.netlify.app/)
 
 ---
 
